@@ -200,7 +200,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://rahulsonone1234.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4" width="100px;" alt=""/><br /><sub><b>Rahul Sonone</b></sub></a><br /><a href="https://github.com/rahulsonone1234/Portfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/rahulsonone1234/Portfolio/commits?author=rahulsonone1234" title="Documentation">📖</a> <a href="#design-rahulsonone1234" title="Design">🎨</a> <a href="#maintenance-rahulsonone1234" title="Maintenance">🚧</a> <a href="#ideas-rahulsonone1234" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://rahulsonone1234.github.io"><img src="https://rahulsonone.me/static/media/rahul_1.38568b20.png" width="100px;" alt=""/><br /><sub><b>Rahul Sonone</b></sub></a><br /><a href="https://github.com/rahulsonone1234/Portfolio/commits?author=rahulsonone1234" title="Code">💻</a> <a href="https://github.com/rahulsonone1234/Portfolio/commits?author=rahulsonone1234" title="Documentation">📖</a> <a href="#design-rahulsonone1234" title="Design">🎨</a> <a href="#maintenance-rahulsonone1234" title="Maintenance">🚧</a> <a href="#ideas-rahulsonone1234" title="Ideas, Planning, & Feedback">🤔</a></td>
    
   </tr>
 </table>
