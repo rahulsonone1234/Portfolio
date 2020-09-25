@@ -1,8 +1,8 @@
 <p align="center"> 
-    <img src="front.png" align="center" height="150"></img>
+    <img src="front.PNG" align="center" height="150"></img>
 </p>
 
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
+<h1 align="center"> Software Developer Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
 <p align="center">
@@ -163,7 +163,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 <p align="center"> 
     <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
+    <img src="front.PNG"></img>
   </a>
 </p>
 
