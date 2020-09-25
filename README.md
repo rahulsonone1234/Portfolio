@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
+    <img src="front.png" align="center" height="150"></img>
 </p>
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/ashutosh1919/masterPortfolio/pulls) or [issue](https://github.com/ashutosh1919/masterPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/rahulsonone1234/Portfolio/pulls) or [issue](https://github.com/rahulsonone1234/Portfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
